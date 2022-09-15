@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.Clear();
-Console.WriteLine("Даны две матрицы:");
+Console.WriteLine("Массив 4х4 заполнен спирально:");
 
 int [,] array = new int [4,4];
 
